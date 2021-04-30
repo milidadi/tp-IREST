@@ -1,0 +1,15 @@
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/bin/Debug/ClientAgence.exe.config
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/bin/Debug/ClientAgence.exe
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/bin/Debug/ClientAgence.pdb
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/bin/Debug/Newtonsoft.Json.dll
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/bin/Debug/Newtonsoft.Json.xml
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.csprojAssemblyReference.cache
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.Form1.resources
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.Form2.resources
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.ImageForm.resources
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.Properties.Resources.resources
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.csproj.GenerateResource.cache
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.csproj.CoreCompileInputs.cache
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.csproj.CopyComplete
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.exe
+/Users/dadi/Desktop/ApiWebHotelREST-master/ClientAgence/obj/Debug/ClientAgence.pdb
